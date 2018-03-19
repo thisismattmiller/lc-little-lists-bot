@@ -1,0 +1,6 @@
+lambda/
+.DS_Store
+upload/
+already_uploaded.json
+data/
+
